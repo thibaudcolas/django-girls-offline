@@ -51,7 +51,9 @@ This tutorial will teach you to build a personal blog from scratch using Django.
    pip install -r requirements.txt
    ```
 
-3. **Run the tutorial:**
+3. [**Install Foundry Local**](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/get-started)
+
+4. **Run the tutorial:**
    ```bash
    python django-girls-offline.py
    ```
